@@ -139,7 +139,7 @@ const HastaHastalik = () => {
                 visible: false,
                 editMode: false
             })
-            console.log("editttt")
+       
         }
 
     }
